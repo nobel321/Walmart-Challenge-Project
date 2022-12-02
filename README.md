@@ -1,2 +1,2 @@
 # Walmart-Challenge-Project
-Walmart AI stuff
+**Walmart pathfinding algorithm that uses**
