@@ -1,6 +1,16 @@
 """
 A* Pathfinding visualization simulation for Walmart shopping path generation.
 Algorithm: F(n) = G(n) + H(n)
+
+NAVIGATION DETAILS (NOTE):
+Line 36 >> node class details
+Line 106 >> heuristic function
+Line 120 >> algorithm
+Line 165 >> make grid
+Line 195 >> draw
+Line 206 >> main function
+Line 207 >> grid dimensions 
+Line 261 >> start
 """
 
 import pygame
@@ -197,7 +207,7 @@ def draw(win, grid, rows, width): # main draw function
     # runs on update
 
 def main(win, width): # main loop/update func
-    ROWS = 50 # change
+    ROWS = 10 # change
     grid = make_grid(ROWS, width)
 
     start = None
