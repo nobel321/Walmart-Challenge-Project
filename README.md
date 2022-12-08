@@ -27,8 +27,8 @@ This is a prototype of a pathfinding algorithm to give a visual representation o
 >*To use program...*
 5. select a single *grid tile*/node to set the starting point of the algorithm
 6. select another single *grid tile*/node to set the ending point of the algorithm
-7. left-click on touch pad or mouse to place barrier nodes
-8. right-click on touch pad or mouse to delete barrier nodes
+7. left-click on touch-pad/mouse to place barrier nodes
+8. right-click on touch-pad/mouse to delete barrier nodes
 9. enter to begin algorithm
 10. ENJOY!
 
